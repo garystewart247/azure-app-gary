@@ -1,0 +1,7 @@
+/Users/garystewart/source/azure-app-gary/publish/azure-app-gary
+/Users/garystewart/source/azure-app-gary/publish/appsettings.Development.json
+/Users/garystewart/source/azure-app-gary/publish/appsettings.json
+/Users/garystewart/source/azure-app-gary/publish/azure-app-gary.dll
+/Users/garystewart/source/azure-app-gary/publish/azure-app-gary.deps.json
+/Users/garystewart/source/azure-app-gary/publish/azure-app-gary.runtimeconfig.json
+/Users/garystewart/source/azure-app-gary/publish/azure-app-gary.pdb
